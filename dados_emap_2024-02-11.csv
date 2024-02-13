@@ -1,4 +1,4 @@
-_time,tipos_aviso,graus_severidade,temperature,humidity,pressure,altitude,windspeed,solarvolt,batvolt
+_time,tipo_aviso,grau_severidade,temperature,humidity,pressure,altitude,windspeed,solarvolt,batvolt
 "2024-02-11 00:06:02.991000+00:00,""TM"",""PP"",25.88500023,74.64160156,986.0250244,,44.55582428,0.0,4.792905807"
 "2024-02-11 00:16:16.766000+00:00,""TM"",""PP"",25.86000061,74.48046875,985.8599243,,10.64019775,0.0,4.792478561"
 "2024-02-11 00:26:28.071000+00:00,""TM"",""PP"",25.78499985,74.51367188,985.8210449,,0.0,0.0,4.792137146"
